@@ -109,23 +109,19 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=parth-magiya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=parth-magiya&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-magiya&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
 
-
-
-
-
- 
+## Recent Blog Posts  
   
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+![Listening to on Spotify](https://rishavanand.github.io/static/images/spotify-readme-example.svg)  
 
 <br/>  
 
@@ -147,9 +143,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-
 
 <!--
 **parth-magiya/parth-magiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
