@@ -8,7 +8,8 @@
 
 ### Hi there 👋
 
-https://ezgif.com/video-to-gif/ezgif-3-b838ce4458c4.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74810838/124281279-33141280-db67-11eb-8f88-e733df9f4c28.gif)
+
 
 
 ### <div align="center">I'm PARTH MAGIYA, a developer and a student 👨‍💻 </div>  
