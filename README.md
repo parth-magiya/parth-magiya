@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://github.com/parth-magiya/parth-magiya/blob/main/header.png
+![header](https://user-images.githubusercontent.com/74810838/124256667-2ed8fc80-db49-11eb-87a0-de6c3ff1354b.png)
+
 
 
 
