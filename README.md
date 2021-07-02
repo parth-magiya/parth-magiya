@@ -8,7 +8,8 @@
 
 ### Hi there 👋
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/74810838/124281279-33141280-db67-11eb-8f88-e733df9f4c28.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/74810838/124282053-014f7b80-db68-11eb-8650-6947c884b988.gif)
+
 
 
 
